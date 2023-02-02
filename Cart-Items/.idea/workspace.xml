@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b02497c3-ff2a-4e5a-9942-34582ae92dd5" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../vite-project/src/assets/click1.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vite-project/src/assets/click2.wav" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../vite-project/src/assets/sus.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vite-project/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../vite-project/src/App.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../vite-project/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../vite-project/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,7 +13,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../vite-project" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -64,7 +60,7 @@
       <workItem from="1674716629845" duration="755000" />
       <workItem from="1674717412707" duration="422000" />
       <workItem from="1674717872488" duration="7855000" />
-      <workItem from="1675320487047" duration="800000" />
+      <workItem from="1675320487047" duration="1450000" />
     </task>
     <servers />
   </component>
@@ -97,6 +93,11 @@
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+        <entry key="MAIN">
+          <value>
+            <State />
           </value>
         </entry>
       </map>
