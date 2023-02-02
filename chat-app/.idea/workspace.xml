@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b02497c3-ff2a-4e5a-9942-34582ae92dd5" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../vite-project/src/assets/click1.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vite-project/src/assets/click2.wav" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../vite-project/src/assets/sus.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vite-project/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/../vite-project/src/App.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vite-project/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../vite-project/src/App.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../vite-project" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2KDdHRVkDey9qwzwLhLmUjyArP7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Javascript-3B/chat-app&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ts.external.directory.path&quot;: &quot;D:\\Javascript-3B\\vite-project\\node_modules\\typescript\\lib&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Javascript-3B\javascript" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b02497c3-ff2a-4e5a-9942-34582ae92dd5" name="Changes" comment="" />
+      <created>1673512999104</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673512999104</updated>
+      <workItem from="1673513000470" duration="1325000" />
+      <workItem from="1673514846170" duration="201000" />
+      <workItem from="1673515870287" duration="241000" />
+      <workItem from="1673516228396" duration="901000" />
+      <workItem from="1674112032195" duration="2687000" />
+      <workItem from="1674716629845" duration="755000" />
+      <workItem from="1674717412707" duration="422000" />
+      <workItem from="1674717872488" duration="7855000" />
+      <workItem from="1675320487047" duration="800000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="6e159126-2b8b-43f7-aa8d-1c3bb07fefb5">
+          <value>
+            <State>
+              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="roots">
+                    <value>
+                      <list>
+                        <option value="$USER_HOME$/desktop/delta-bank-main" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="OPEN_GENERIC_TABS">
+      <map>
+        <entry key="6e159126-2b8b-43f7-aa8d-1c3bb07fefb5" value="TOOL_WINDOW" />
+      </map>
+    </option>
+  </component>
+</project>

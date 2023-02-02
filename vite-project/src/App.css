@@ -1,0 +1,18 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.metronome {
+  width: 200px;
+  margin: 0 auto;
+  padding: 30px;
+  text-align: center;
+}
+
+button {
+  background-color: darkblue;
+  border: 1px solid black;
+}
