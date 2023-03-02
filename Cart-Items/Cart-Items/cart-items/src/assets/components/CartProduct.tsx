@@ -18,7 +18,6 @@ export  default  function CartProduct(props: ProductPropsInterface) {
             props.onIncrement(props.product);
         }}>
         </button>
-
         <button
         className=" btn btn-danger"
         onClick={() => {
@@ -32,7 +31,6 @@ export  default  function CartProduct(props: ProductPropsInterface) {
             props.onDelete(props.product.id);
         }}>
         </button>
-
         {props.product.value}
     </div>;
 }
