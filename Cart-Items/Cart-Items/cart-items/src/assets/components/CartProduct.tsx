@@ -17,8 +17,22 @@ export  default  function CartProduct(props: ProductPropsInterface) {
         onClick={() => {
             props.onIncrement(props.product);
         }}>
-
         </button>
+
+        <button
+        className=" btn btn-danger"
+        onClick={() => {
+            props.onDecrement(props.product);
+        }}>
+        </button>
+
+        <button
+        className="btn btn-success"
+        onClick={() => {
+            props.onDelete(props.product.id);
+        }}>
+        </button>
+
         {props.product.value}
     </div>;
 }
